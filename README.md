@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Habibur Rahman</h1>
 <h3 align="center">A Full-time front-end developer from sylhet, Banhladesh.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9736a4b50b5b1c6877647448618f89fdba39dcf10ad90e3f857038577f3a86e5/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" >
+<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhabibonline&label=Profile%20views&color=0e75b6&style=flat" alt="fhabibonline" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Redux**
 
-- 💬 Ask me about **React, JavaScript, tailwind.css, bootstrap, Row CSS, Social Media Marketing**
+- 💬 Ask me about **React, JavaScript, tailwind.css, bootstrap, Row CSS, and Social Media Marketing**
 
 - 📫 How to reach me **jaberrahman8@gmail.com**
 
